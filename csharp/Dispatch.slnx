@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dispatch/Dispatch.csproj" />
+  <Project Path="Dispatch.Tests/Dispatch.Tests.csproj" />
+</Solution>
